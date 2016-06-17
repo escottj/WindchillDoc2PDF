@@ -1,0 +1,10 @@
+<!--Add below properties to your site.xconf-->   
+<Property name="worker.exe.whitelist.prefixes.PDMLINK" overridable="true"
+	targetFile="codebase/WEB-INF/conf/wvs.properties"
+        value="C:\|E:\|F:\|/|nohup /"/>
+<Property name="worker..DOCX" overridable="true"
+	targetFile="codebase/WEB-INF/conf/wvs.properties"
+        value="OFFICE"/>
+<Property name="worker..DOC" overridable="true"
+        targetFile="codebase/WEB-INF/conf/wvs.properties"
+        value="OFFICE"/>

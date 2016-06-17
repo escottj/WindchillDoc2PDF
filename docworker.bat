@@ -1,0 +1,1 @@
+powershell -command "%PS_SCRIPT% %1 %2"
