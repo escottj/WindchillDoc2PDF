@@ -1,4 +1,4 @@
-# Windchill Document to PDF Worker
+# Windchill Document/Office Worker
 ### License Terms:
 The use of this script or any part is restricted to personal use only.  
 You are not allowed to sell or distribute this in any way be it as a service or as a product without prior written consent of the copyright owner.  
